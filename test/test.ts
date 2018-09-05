@@ -1,4 +1,5 @@
 import './cyclical-dependencies'
+import './emitter'
 import './immutable'
 import './react/createConnectedStore'
 import './react/createConnectedStoreAs'
