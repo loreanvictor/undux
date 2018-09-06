@@ -4184,6 +4184,12 @@ run-queue@^1.0.0, run-queue@^1.0.3:
   dependencies:
     aproba "^1.1.1"
 
+rxjs-observable@^0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/rxjs-observable/-/rxjs-observable-0.0.5.tgz#32f95a640c0ce1d804d39070bda5228f0ac16aca"
+  dependencies:
+    rxjs "^6.3.1"
+
 rxjs@6.2.2:
   version "6.2.2"
   resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-6.2.2.tgz#eb75fa3c186ff5289907d06483a77884586e1cf9"
@@ -4193,6 +4199,12 @@ rxjs@6.2.2:
 rxjs@^6.1.0, rxjs@^6.3.0:
   version "6.3.0"
   resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-6.3.0.tgz#e55b05ad4bdf351db4b45756638dfa368260a8a3"
+  dependencies:
+    tslib "^1.9.0"
+
+rxjs@^6.3.1:
+  version "6.3.2"
+  resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-6.3.2.tgz#6a688b16c4e6e980e62ea805ec30648e1c60907f"
   dependencies:
     tslib "^1.9.0"
 
