@@ -28,7 +28,7 @@
     "test": "ava && flow focus-check ./test/test.flow.js && ./test/bad-cases/run.sh"
   },
   "dependencies": {
-    "rxjs-observable": "^0.0.5"
+    "rxjs-observable": "^0.0.6"
   },
   "devDependencies": {
     "@types/jsdom": "^11.0.6",
